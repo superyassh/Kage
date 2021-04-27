@@ -1,0 +1,9 @@
+discord.py==1.5.1
+Pillow==8.0.1
+praw==7.1.0
+asyncio
+python-dotenv
+google-search
+google
+requests
+wikipedia
