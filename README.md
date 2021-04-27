@@ -1,4 +1,4 @@
-# Chintubot
+# Kage bot
 ### Prefix - $
 
 ### Type "$help" to get the list of commands.
